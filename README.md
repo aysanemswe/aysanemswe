@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ernazarova Aysanem 👋
 
-<!--
-**aysanemswe/aysanemswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###**Software Engineer Student** 
 
-Here are some ideas to get you started:
+##**😊About me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🏫I am a student at **Muhammed al-Xorazmiy miyrasxorlari**.
+<br>
+-💻I am currently learning **HTML5** and **CSS3**.
+<br>
+-⚡️I love solving logic puzzles and building "hacked-style" web projects**. 
+<br>
+-🌍 Based in **Karakalpakstan,Uzbekistan**.
+<br>

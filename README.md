@@ -1,14 +1,10 @@
-## Hi, I'm Ernazarova Aysanem 👋
+## Hi, I'm Ernazarova Aysanem 👋##
 
-###**Software Engineer Student** 
+###**Software Engineer Student**###
 
-##**😊About me:**
+**😊About me:**
 
--🏫I am a student at **Muhammed al-Xorazmiy miyrasxorlari**.
-<br>
--💻I am currently learning **HTML5** and **CSS3**.
-<br>
+- 🏫 I am a student at **Muhammed al-Xorazmiy miyrasxorlari**.
+- 💻 I am currently learning **HTML5** and **CSS3**.
 -⚡️I love solving logic puzzles and building "hacked-style" web projects**. 
-<br>
--🌍 Based in **Karakalpakstan,Uzbekistan**.
-<br>
+- 🌍 Based in **Karakalpakstan,Uzbekistan**.
